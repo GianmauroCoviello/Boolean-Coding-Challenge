@@ -1,0 +1,100 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;       
+}
+
+.container{
+    width: 850px;
+    height: 610px;
+    border-radius: 2%;
+    background-color: rgba(0, 0, 0, 0.55);
+    margin: auto;
+    margin-top: 15px;       
+}
+
+header{    
+    margin: auto;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.Logo{
+    width: 170px;
+    margin: auto;
+    display: inline-block;
+    text-align: center;   
+}
+
+.titolo{
+    color: rgba(0, 221, 0, 255);    
+    margin: auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    
+}
+
+.stringa{
+    width: 710px;
+    height: 30px;
+    background-color: rgba(0, 221, 0, 255);
+    margin: auto;
+    text-align: center;   
+}
+
+
+button{
+    font-size: 10px;
+    margin-top: 7px;   
+}
+
+main{
+    width: 710px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;    
+}
+
+.monopattini{
+    color: white;
+    display: block;
+    font-size: 12px;   
+}
+
+.checkbox{
+    display: inline;
+    width: 10px;
+    height: 10px;   
+}
+
+h3{
+    display: inline;
+    font-size: 16px;
+}
+
+p{
+    margin: 0;
+}
+
+.gino22{
+    width: 250px;
+    height: 20px;
+    background-color: rgba(245, 180, 83, 255);
+    border-radius: 3px;
+}
+
+.mike24{
+    width: 450px;
+    height: 20px;
+    background-color: rgba(30, 195, 30, 255);
+    border-radius: 3px;
+}
+
+.fede154{
+    width: 150px;
+    height: 20px;
+    background-color: rgba(190, 65, 65, 255);
+    border-radius: 3px;
+}
+
+    
